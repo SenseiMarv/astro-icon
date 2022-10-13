@@ -1,3 +1,22 @@
+> This is a fork of [Astro Icon](https://github.com/natemoo-re/astro-icon) with `@iconify/json` as peer dependency.
+
+## Setup
+
+1. Install `astro-icon`.
+
+```bash
+npm i -D @senseimarv/astro-icon
+npm i @iconify/json
+# or
+yarn add -D @senseimarv/astro-icon
+yarn add @iconify/json
+```
+
+2. See below
+
+Original README
+---
+
 # Astro Icon
 
 A straight-forward `Icon` component for [Astro](https://astro.build).
